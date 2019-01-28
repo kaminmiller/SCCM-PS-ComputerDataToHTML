@@ -8,7 +8,7 @@
 
 function Output-StartTable(){
 
-    $storage = "<table clas='mb'><thead><tr><th>User Name</th><th>Computer Name</th><th>Description</th></tr></thead><tbody>"
+    $storage = "<table class='mb'><thead><tr><th>User Name</th><th>Computer Name</th><th>Description</th></tr></thead><tbody>"
 
     return $storage
 
